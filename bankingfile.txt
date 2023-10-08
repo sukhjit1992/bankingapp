@@ -1,0 +1,4 @@
+deposit: 50.0				Balance:250.0
+withdraw: 100.0				Balance:150.0
+withdraw: 50.0				Balance:50.0
+deposit: 120.0				Balance:170.0
